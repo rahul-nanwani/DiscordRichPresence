@@ -1,4 +1,4 @@
-<hr><h2 align="center">Custom Rich Presence for Discord</h2><hr>
+<h2 align="center">Custom Rich Presence for Discord</h2>
 <h3 align="left">Steps:</h3>
 <p align="left">
     1. Go to <a href="https://discord.com/developers/applications" target="_blank">Discord Developer Portal</a>.<br>
@@ -11,4 +11,4 @@
     8. Use these image asset names to replace the strings <code>small_image</code> and <code>large_image</code> in <b>RichPresence.py</b>.<br>
     9. Replace the other strings with desired details.<br>
     10. Run the discord desktop client and then the script. 
-</p><hr>
+</p>
