@@ -19,7 +19,7 @@ RPC.update(
     small_image='small', small_text='Cartero',  # Set small image and its text (Optional)
     large_image='large', large_text='Cartero',  # Set large image and its text (Optional)
     buttons=[
-        {"label": btn_label_1, "url": btn_url_2},   # btn 1 (Optional)
+        {"label": btn_label_1, "url": btn_url_1},   # btn 1 (Optional)
         {"label": btn_label_2, "url": btn_url_2}    # btn 2 (Optional)
     ]
 )
